@@ -1,0 +1,387 @@
+/*most of the mobile phone css*/
+@media (min-width: 280px) and ( max-width: 323px){
+
+	/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-toggler:focus{
+		box-shadow: 0 0 0 0rem;
+	}
+	.header .navbar-light .navbar-nav .nav-link{
+		margin: 0px 0px 15px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.banner{
+		padding: 30px 0px;
+	}
+	.inner-banner h1{
+		font-size: 24px;
+		line-height: 42px;
+	}
+	.inner-banner p{
+		font-size: 7px;
+	}
+	.inner-button {
+		padding: 8px 0px;
+	}
+	.inner-button .btn-primary {
+    	padding: 10px 2px;
+	}
+	.inner-button .btn-secondary {
+		padding: 10px 2px;
+	}
+	.title h6{
+		font-size: 15px;
+	}
+	.title h2{
+		font-size: 20px;
+	}
+	.about-sort-text{
+		font-size: 12px;
+	}
+	.about-sort-list li{
+		font-size: 12px;
+	}
+	.about-long{
+		padding: 0px;
+	}
+	.about-long .title h2{
+		font-size: 26px;
+	}
+	.about-long-text{
+		font-size: 12px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 17px;
+	}
+	.testimonials .owl-carousel .item .client-imges{
+		width: 80px;
+		height: 80px;
+	}
+	.row .col-9{
+		width: 69%;
+		padding: 0px 0px 0px 25px;
+	}
+	.price-header h3{
+		font-size: 23px;
+	}
+	.price h1{
+		font-size: 61px;
+	}
+	.price-inner p{
+		font-size: 12px;
+	}
+	.download h3{
+		font-size: 15px;
+		margin: 0px 0px 20px 0px;
+	}
+	.price-box{
+		margin: 20px 0px;
+	}
+	.contact{
+		padding: 40px;
+	}
+	.contact .inner-contact{
+		margin: 20px 0px;
+	}
+	.about-long .title h2{
+		font-size: 21px;
+	}
+	.about-long-text{
+		font-size: 10px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 14px;
+	}
+	.download h3{
+		font-size: 12px;
+	}
+	.main-form .btn-primary{
+		padding: 10px 7px;
+	}
+	/*css end*/
+}
+@media (min-width: 324px) and ( max-width: 480px){
+/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-toggler:focus{
+		box-shadow: 0 0 0 0rem;
+	}
+	.header .navbar-light .navbar-nav .nav-link{
+		margin: 0px 0px 15px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.banner{
+		padding: 30px 0px;
+	}
+	.inner-banner h1{
+		font-size: 32px;
+		line-height: 42px;
+	}
+	.inner-banner p{
+		font-size: 7px;
+	}
+	.inner-button {
+		padding: 20px 0px;
+	}
+	.inner-button .btn-primary {
+    	padding: 8px 15px;
+	}
+	.inner-button .btn-secondary {
+		padding: 8px 15px;
+	}
+	.features{
+		padding: 50px 0px;
+	}
+	.title{
+		padding: 0px 0px 40px;
+	}
+	.title h2{
+	 font-size: 28px;
+	 line-height: 1.1em;
+	}
+	.inner-feature{
+		margin: 25px 0px;
+	}
+	.inner-feature p{
+		font-size: 14px;
+	}
+	.about-sort{
+		padding: 0px 0px;
+	}
+	.about-sort-text{
+		font-size: 13px;
+	}
+	.about-sort-list li{
+		font-size: 15px;
+	}
+	.about-long{
+		padding: 0px 0px;
+	}
+	.about-long .title h2 {
+    	font-size: 30px;
+	}
+	.about-long-text{
+		font-size: 10px;
+	}
+	.img-fluid{
+		width: 90%;
+	}
+	.pricing-plan{
+		padding: 50px 0px;
+	}
+	.testimonials{
+		padding: 50px 0px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 15px;
+	}
+	.testimonials .col-9{
+		padding: 0px 0px 0px 45px;
+	}
+	.testimonials .owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 50px;
+	}
+	.download h3{
+		font-size: 17px;
+	}
+	.download .inner-button{
+		padding: 20px 0px;
+	}
+	.about-sort-text{
+		padding: 50px 0px;
+	}
+	.contact{
+		padding: 50px 0px;
+	}
+	.contact .inner-contact{
+		margin: 30px 0px;
+	}
+	.price-box {
+		margin: 20px 0px;
+	}
+	.price-header h3{
+		font-size: 22px;
+	}
+	.price h1{
+		font-size: 70px;
+	}
+	.price-inner p{
+		font-size: 14px;
+	}
+
+	/*css end*/
+
+}
+
+/*most of the mobile low regulation tablet, mobile phone css*/
+@media (min-width: 481px) and ( max-width: 767px){
+/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.inner-banner h1{
+		font-size: 50px;
+	}
+	.inner-banner p{
+		font-size: 13px;
+	}
+	.title{
+		padding: 0px 0px 50px;
+	}
+	.title h2{
+		font-size: 40px;
+	}
+	.about-sort-text{
+		font-size: 13px;
+	}
+	.inner-feature{
+		margin: 30px 0px;
+	}
+	.inner-feature p{
+		font-size: 14px;
+    	width: 68%;
+    	margin: 0px 0px 0px 74px;
+	}
+	.about-sort{
+		padding: 50px 0px;
+	}
+	.about-sort-text {
+    	font-size: 14px;
+    	width: 56%;
+	}
+	.title h2{
+		font-size: 35px;
+	}
+	.about-sort-list li{
+		font-size: 15px;
+	}
+	.about-long{
+		padding: 20px 0px;
+	}
+	.about-long .title h2 {
+    	font-size: 37px;
+	}
+	.about-long-text{
+		font-size: 15px;
+	}
+	.download h3{
+		font-size: 26px;
+		margin: 10px 0px;
+	}
+	.download .inner-button{
+		margin: 15px 0px;
+		text-align: center;
+	}
+	.price-box{
+		margin: 30px 0px;
+	}
+	.contact .inner-contact{
+		margin: 25px 0px;
+	}
+
+/*css end*/
+
+}
+
+/*most of the ipad, tablet, notebook css*/
+@media (min-width: 768px) and ( max-width: 1024px){
+/*css start*/
+	.header .navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.header .navbar-nav{
+		margin: 40px 0px 0px;
+	}
+	.header .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.header .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/line.png") left bottom no-repeat;		
+	}
+	.title h2{
+		font-size: 35px
+	}
+	.inner-feature{
+		margin: 25px 0px;
+	}
+	.inner-feature p{
+		font-size: 14px;
+		text-align: center;
+	}
+	.about-sort-text{
+		font-size: 14px;
+	}
+	.about-sort-list li{
+		font-size: 15px;
+	}
+	.about-long{
+		padding: 50px 0px;
+	}
+	.about-long .title h2{
+		font-size: 39px;
+	}
+	.about-long-text{
+		font-size: 14px;
+	}
+	.row .col-9{
+		padding: 0px 0px 0px 45px;
+	}
+	.download h3{
+		font-size: 28px;
+		margin: 0px 0px 10px 0px;
+	}
+	.download .inner-button .btn-secondary{
+		padding: 17px 23px;
+	}
+	.inner-button .btn-primary{
+		padding: 17px 23px;
+	}
+	.price-box{
+		margin: 30px 0px;
+	}
+	.price-inner p{
+		font-size: 17px;
+		text-align: center;
+	}
+	.contact .inner-contact{
+		margin: 25px 0px;
+	}
+	.about-long .title h2{
+		font-size: 35px;
+	}
+/*css end*/
+
+}
